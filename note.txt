@@ -1,0 +1,21 @@
+-------------------------
+For compilying
+sudo npm install -g less-watch-compiler
+
+-------------------------
+For Installing less
+sudo npm install -g less
+
+------------------------------
+Compilying less file to css
+
+lessc styles.less style.css
+
+-----------------------
+For watch
+less - Folder name of less files
+css - Which creates folder name css and compile less into css in css folder.
+less-watch-compiler less css
+
+
+less-watch-compiler if we add configuration.
